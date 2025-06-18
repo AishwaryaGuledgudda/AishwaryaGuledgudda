@@ -57,5 +57,5 @@
 ---
 
 ### 💡 Fun Fact
-> *"I'm not just automating tests — I'm testing limits. Hustle never sleeps."*
+> *🛠 "Behind every bug, there’s a story — and I love plot twists.""*
 
