@@ -4,7 +4,7 @@
 <h3 align="center">SDET | Athlete | Tech Learner | Growth Seeker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=SDET+with+passion+for+automation;Mobile+%26+Web+App+Testing+Enthusiast;Always+learning%2C+always+hustling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=+SDET+with+passion+for+automation;+Mobile+%26+Web+App+Testing+Enthusiast;+Always+learning%2C+always+hustling" alt="Typing SVG" />
 </p>
 
 ---
