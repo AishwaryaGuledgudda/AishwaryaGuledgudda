@@ -59,6 +59,10 @@
 
 ---
 
+![GitHub commits this year](https://img.shields.io/github/commit-activity/y/AishwaryaGuledgudda/FlipCart_PlaywrightJS?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
 ### 💡 Fun Fact
 > *🛠 "Behind every bug, there’s a story, and I love plot twists."*
 > *🧠 "Automating tests by day, debugging life by night."*
