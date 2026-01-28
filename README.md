@@ -60,6 +60,6 @@
 ---
 
 ### 💡 Fun Fact
-> *🛠 "Behind every bug, there’s a story — and I love plot twists."*
+> *🛠 "Behind every bug, there’s a story, and I love plot twists."*
 > *🧠 "Automating tests by day, debugging life by night."*
 
